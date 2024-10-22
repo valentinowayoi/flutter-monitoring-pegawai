@@ -1,6 +1,6 @@
 # mon_employe
 
-A new Flutter project.
+Projek yang dikerjakan bertujuan untuk kemajuan dari perusahaan mendatang.
 
 ## Getting Started
 
